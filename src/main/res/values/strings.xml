@@ -876,4 +876,7 @@
     <string name="etm_title">Engineering Test Mode</string>
     <string name="etm_preferences">Preferences</string>
     <string name="etm_share">Share</string>
+    <string name="autoupload_blacklist_pattern">Edit Exclude Patterns</string>
+    <string name="blacklist_editor_exclude_pattern_title">Exclude Pattern</string>
+    <string name="blacklist_editor_exclude_pattern_subtitle">* as wildcard may be used</string>
 </resources>
